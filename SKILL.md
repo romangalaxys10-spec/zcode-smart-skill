@@ -113,6 +113,14 @@ this solution could be wrong" with a one-line answer to each (s1-style budget
 forcing: induced self-correction). No credible attack list = red flag; verify
 extra hard.
 
+**[E2] Structured reflection on failure** — when a verify fails or an approach is
+abandoned, append to `notes.md` (or have the worker include in its report) a
+fixed-schema entry: `ROOT CAUSE:` / `WRONG ASSUMPTION:` / `SIGNAL THAT IT FAILED:` /
+`DO INSTEAD:`. The manager MUST quote relevant reflection entries in the next
+task brief — fresh-context workers inherit failed-path wisdom only through these.
+Prune/compress reflections older than the current approach (buffers overflow,
+early context gets lost).
+
 **VERIFY (you, mandatory — ground truth):** run the artifact against the user's
 criteria AND `tests_spec.md` [E1]. Never accept a worker's claim. Append verdict
 to `verify.log`. A failed verify overrides any "done".

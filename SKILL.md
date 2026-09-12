@@ -1,6 +1,6 @@
 ---
 name: smart
-description: GVS5H ledger-based self-orchestration v2 for hard problems — multi-agent solve loop with 10 research-backed enhancements (adversarial test-writer, parallel approach racing, difficulty-adaptive budgets, structured reflection, scrutiny selection, backtracking checkpoints, self-attack pass, model-per-role, workflow memory, handoff discipline). Use for hard algorithmic/coding tasks, gnarly debugging, architecture design, or anything the user flags with /smart. Triggers: "smart mode", "/smart", "solve this properly", hard algorithm/optimization/concurrency tasks, a fix that already failed twice, multi-file refactors with tricky invariants.
+description: 'GVS5H ledger-based self-orchestration v2 for hard problems — multi-agent solve loop with 10 research-backed enhancements (adversarial test-writer, parallel approach racing, difficulty-adaptive budgets, structured reflection, scrutiny selection, backtracking checkpoints, self-attack pass, model-per-role, workflow memory, handoff discipline). Use for hard algorithmic/coding tasks, gnarly debugging, architecture design, or anything the user flags with /smart. Triggers: "smart mode", "/smart", "solve this properly", hard algorithm/optimization/concurrency tasks, a fix that already failed twice, multi-file refactors with tricky invariants.'
 ---
 
 # Smart Mode v2 — GVS5H ledger orchestration, enhanced edition

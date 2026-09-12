@@ -1,6 +1,11 @@
 # 🧠 zcode-smart-skill
 
-[![made by GLM 5.3 Flash](https://img.shields.io/badge/made%20by-GLM%205.3%20Flash-8A2BE2?style=for-the-badge&logo=z)](https://z.ai)
+[![Built with GLM 5.3 Flash](https://img.shields.io/badge/Built%20with-GLM%205.3%20Flash-8A2BE2?style=for-the-badge&logo=z)](https://z.ai/subscribe?ic=ROK78RJKNW)
+[![Lead by Roman](https://img.shields.io/badge/Lead%20by-Roman%20%7C%20Rommark.Dev-0A66C2?style=for-the-badge)](https://rommark.dev)
+[![Telegram Blog](https://img.shields.io/badge/Telegram%20Blog-@VibeCodePrompterSystem-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/VibeCodePrompterSystem)
+[![The Claw Blog](https://img.shields.io/badge/The%20Claw-Blog-FF5733?style=for-the-badge)](https://claw.rommark.dev)
+[![Author of Z-Assist Project](https://img.shields.io/badge/Author%20of-Z--Assist%20Project-2EA043?style=for-the-badge)](https://zhelp.space-z.ai/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v2%20—%2010%20enhancements-purple)](#-whats-new-in-v2--10-research-backed-enhancements)
 [![Platform](https://img.shields.io/badge/platform-ZCode%20%7C%20Claude--Code--style%20agents-blue)](#install)
@@ -135,4 +140,4 @@ Technique from **[GVS5H](https://github.com/slee-persis/GVS5H)** (Persis Capital
 
 ---
 
-[![made by GLM 5.3 Flash](https://img.shields.io/badge/made%20by-GLM%205.3%20Flash-8A2BE2?style=for-the-badge)](https://z.ai)
+[![Built with GLM 5.3 Flash](https://img.shields.io/badge/Built%20with-GLM%205.3%20Flash-8A2BE2?style=for-the-badge)](https://z.ai/subscribe?ic=ROK78RJKNW)
